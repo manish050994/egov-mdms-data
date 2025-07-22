@@ -25886,6 +25886,12 @@
       "tenantId": "pg"
   },
   {
+      "rolecode": "PT_APPROVER",
+      "actionid": 4962,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
       "rolecode": "TL_CEMP",
       "actionid": 3701,
       "actioncode": "",
@@ -32194,6 +32200,12 @@
   {
       "rolecode": "PT_FIELD_INSPECTOR",
       "actionid": 4957,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 4962,
       "actioncode": "",
       "tenantId": "pg"
   },
