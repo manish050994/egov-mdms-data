@@ -9,8 +9,7 @@
       "bannerUrl": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/banner-bg.jpg",
       "logoUrl": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
       "logoUrlWhite": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
-      "statelogo":"https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg/logo.png",
-      "hasLocalisation": true,
+      "statelogo": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg/logo.png",
       "enableWhatsApp": true,
       "defaultUrl": {
         "citizen": "/user/register",
@@ -27,83 +26,101 @@
         }
       ],
       "localizationModules": [
-        {
-          "label": "rainmaker-abg",
-          "value": "rainmaker-abg"
-        },
-        {
-          "label": "rainmaker-common",
-          "value": "rainmaker-common"
-        },
-        {
-          "label": "rainmaker-noc",
-          "value": "rainmaker-noc"
-        },
-        {
-          "label": "rainmaker-pt",
-          "value": "rainmaker-pt"
-        },
-        {
-          "label": "rainmaker-uc",
-          "value": "rainmaker-uc"
-        },
-        {
-          "label": "rainmaker-pgr",
-          "value": "rainmaker-pgr"
-        },
-        {
-          "label": "rainmaker-fsm",
-          "value": "rainmaker-fsm"
-        },
-        {
-          "label": "rainmaker-tl",
-          "value": "rainmaker-tl"
-        },
-        {
-          "label": "rainmaker-hr",
-          "value": "rainmaker-hr"
-        },
-        {
-          "label": "rainmaker-test",
-          "value": "rainmaker-test"
-        },
-        {
-          "label": "finance-erp",
-          "value": "finance-erp"
-        },
-        {
-          "label": "rainmaker-receipt",
-          "value": "rainmaker-receipt"
-        },
-        {
-          "label": "rainmaker-dss",
-          "value": "rainmaker-dss"
-        },
-        {
-          "label": "rainmaker-workbench",
-          "value": "rainmaker-workbench"
-        },
-        {
-          "label": "rainmaker-schema",
-          "value": "rainmaker-schema"
-        },
-        {
-          "label": "rainmaker-mdms",
-          "value": "rainmaker-mdms"
-        },
-        {
-          "label": "rainmaker-measurement",
-          "value": "rainmaker-measurement"
-        },
-        {
-          "label": "rainmaker-common-masters",
-          "value": "rainmaker-common-masters"
-        },
-        {
-          "label": "rainmaker-workflow",
-          "value": "rainmaker-workflow"
-        }
-      ]
+        { "label": "rainmaker-abg", "value": "rainmaker-abg" },
+        { "label": "rainmaker-common", "value": "rainmaker-common" },
+        { "label": "rainmaker-noc", "value": "rainmaker-noc" },
+        { "label": "rainmaker-pt", "value": "rainmaker-pt" },
+        { "label": "rainmaker-uc", "value": "rainmaker-uc" },
+        { "label": "rainmaker-pgr", "value": "rainmaker-pgr" },
+        { "label": "rainmaker-fsm", "value": "rainmaker-fsm" },
+        { "label": "rainmaker-tl", "value": "rainmaker-tl" },
+        { "label": "rainmaker-hr", "value": "rainmaker-hr" },
+        { "label": "rainmaker-test", "value": "rainmaker-test" },
+        { "label": "finance-erp", "value": "finance-erp" },
+        { "label": "rainmaker-receipt", "value": "rainmaker-receipt" },
+        { "label": "rainmaker-dss", "value": "rainmaker-dss" },
+        { "label": "rainmaker-workbench", "value": "rainmaker-workbench" },
+        { "label": "rainmaker-schema", "value": "rainmaker-schema" },
+        { "label": "rainmaker-mdms", "value": "rainmaker-mdms" },
+        { "label": "rainmaker-measurement", "value": "rainmaker-measurement" },
+        { "label": "rainmaker-common-masters", "value": "rainmaker-common-masters" },
+        { "label": "rainmaker-workflow", "value": "rainmaker-workflow" }
+      ],
+      "uiImageAssets": {
+        "formCorrectionRequiredIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%201803.svg",
+        "propertyApplicationReviewIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%201800.svg",
+        "notificationBellBadgeIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Group%20133.svg",
+        "addPropertyIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%201795.svg",
+        "bankPaymentRupeeIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%201794.svg",
+        "bankBuildingWhiteIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/bank.svg",
+        "blueHeaderRectangleBg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Rectangle%20234.svg",
+        "maroonWaterVOCIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/water_voc.svg",
+        "userProfileArrowRightWhiteIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/user-profile-right.svg",
+        "indoreMunicipalCorporationLogo": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
+        "rupeeCoinIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/currency-coin-rupee.svg",
+        "usersWhiteIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Vector.svg",
+        "buildingMaroonIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Vector%20(1).svg",
+        "landingPageBannerImage": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Rectangle%2010.svg",
+        "madhyaPradeshStateEmblemLogo": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/MP%20Emblem%201%201.svg",
+        "indoreRajwadaPalaceFrameImage": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321313966.svg",
+        "superSwachhLeagueNo1BadgeImage": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321313965.svg",
+        "facebookCircleBlueIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321313964.svg",
+        "userProfileStarIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/user-profile-star.svg",
+        "deliveryTruckMaroonIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/delivery.svg",
+        "xTwitterLogoBlackIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321313967.svg",
+        "notificationDotSquareMaroonIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321313953.svg",
+        "ringsMaroonIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201000006503.svg",
+        "twoArrowSplitMaroonIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/08dbb3cd-e05f-4b0e-870c-60f8b7bacc29.svg",
+        "mapBlueIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%201807.svg",
+        "indoreLandmarksCollageGreyscaleImage": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%201809.svg",
+        "53svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/53.svg",
+        "Frame_1321315418svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321315418.svg",
+        "Group_188svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Group%20188.svg",
+        "Group_198svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Group%20198.svg",
+        "Group_200svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Group%20200.svg",
+        "Group_201svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Group%20201.svg",
+        "Icon_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon%20(1).svg",
+        "Icon_Buttonsvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon%20Button.svg",
+        "Icon_Dashboard_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon_Dashboard%20(1).svg",
+        "Icon_Dashboard_2svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon_Dashboard%20(2).svg",
+        "Icon_Dashboard_3svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon_Dashboard%20(3).svg",
+        "Icon_Dashboardsvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon_Dashboard.svg",
+        "Icon_Order_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon_Order%20(1).svg",
+        "Icon_Ordersvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon_Order.svg",
+        "Vector_2svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Vector%20(2).svg",
+        "ic_check_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/ic_check%20(1).svg",
+        "ic_check_2svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/ic_check%20(2).svg",
+        "ic_checksvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/ic_check.svg",
+        "menuicon_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/menu-icon%20(1).svg",
+        "menuiconsvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/menu-icon.svg",
+        "value_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/value%20(1).svg",
+        "valuesvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/value.svg",
+        "08dbb3d6175d4c8f87868c1ce0a90a42svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/08dbb3d6-175d-4c8f-8786-8c1ce0a90a42.svg",
+        "Diplomasvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Diploma.svg",
+        "Frame_1321315417_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321315417%20(1).svg",
+        "Frame_1321315417_2svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321315417%20(2).svg",
+        "Frame_1321315417_3svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321315417%20(3).svg",
+        "Frame_1321315417svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321315417.svg",
+        "Frame_1321315419svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Frame%201321315419.svg",
+        "Group_1000005229svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Group%201000005229.svg",
+        "Icon_Order_2svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon_Order%20(2).svg",
+        "checkbrokensvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/check-broken.svg",
+        "rejectedfilesvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/rejected-file.svg",
+        "sendbacksvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/send-back.svg",
+        "star01svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/star-01.svg",
+        "timemanagement_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/time-management%20(1).svg",
+        "timemanagementsvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/time-management.svg",
+        "verification_1svg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/verification%201.svg",
+        "Iconsvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Icon.svg",
+        "Moresvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/More.svg",
+        "Oak_Treesvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Oak%20Tree.svg",
+        "Roadsvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Road.svg",
+        "Romancesvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Romance.svg",
+        "Trucksvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Truck.svg",
+        "passkeysvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/passkey.svg",
+        "real_estate_agentsvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/real_estate_agent.svg",
+        "water_phsvg": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/water_ph.svg"
+      }
     }
   ]
 }
