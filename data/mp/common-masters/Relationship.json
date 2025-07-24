@@ -3,15 +3,19 @@
     "moduleName": "common-masters",
     "Relationship": [
       {
-        "name": "Father",
-        "code": "FATHER",
+        "name": "Son of",
+        "code": "SONOF",
         "active": true
       },
       {
-        "name": "Husband",
-        "code": "HUSBAND",
+        "name": "Daughter of",
+        "code": "DAUGHTEROF",
+        "active": true
+      },
+      {
+        "name": "Wife of",
+        "code": "WIFEOF",
         "active": true
       }
     ]
 }
-  

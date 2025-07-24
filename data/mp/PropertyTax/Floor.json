@@ -1,47 +1,10 @@
-
-  {
+{
   "tenantId": "mp",
   "moduleName": "PropertyTax",
   "Floor": [
     {
-      "name": "7TH FLOOR",
-      "code": "7",
-      "description": "floor number of the floor",
-      "active": true
-    },
-    {
-      "name": "6TH FLOOR",
-      "code": "6",
-      "description": "floor number of the floor",
-      "active": true
-    },
-    {
-      "name": "5TH FLOOR",
-      "code": "5",
-      "description": "floor number of the floor",
-      "active": true
-    },
-    {
-      "name": "4TH FLOOR",
-      "code": "4",
-      "description": "floor number of the floor",
-      "active": true
-    },
-    {
-      "name": "3RD  FLOOR",
-      "code": "3",
-      "description": "floor number of the floor",
-      "active": true
-    },
-    {
-      "name": "2ND FLOOR",
-      "code": "2",
-      "description": "floor number of the floor",
-      "active": true
-    },
-    {
-      "name": "1ST FLOOR",
-      "code": "1",
+      "name": "BASEMENT",
+      "code": "-1",
       "description": "floor number of the floor",
       "active": true
     },
@@ -52,26 +15,50 @@
       "active": true
     },
     {
-      "name": "BASEMENT",
-      "code": "-1",
+      "name": "GROUND FLOOR",
+      "code": "0",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "10TH FLOOR & ABOVE",
-      "code": "10ABOVE",
+      "name": "1ST FLOOR",
+      "code": "1",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "10TH FLOOR",
-      "code": "10",
+      "name": "2ND FLOOR",
+      "code": "2",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "9TH FLOOR",
-      "code": "9",
+      "name": "3RD  FLOOR",
+      "code": "3",
+      "description": "floor number of the floor",
+      "active": true
+    },
+    {
+      "name": "4TH FLOOR",
+      "code": "4",
+      "description": "floor number of the floor",
+      "active": true
+    },
+    {
+      "name": "5TH FLOOR",
+      "code": "5",
+      "description": "floor number of the floor",
+      "active": true
+    },
+    {
+      "name": "6TH FLOOR",
+      "code": "6",
+      "description": "floor number of the floor",
+      "active": true
+    },
+    {
+      "name": "7TH FLOOR",
+      "code": "7",
       "description": "floor number of the floor",
       "active": true
     },
@@ -82,8 +69,20 @@
       "active": true
     },
     {
-      "name": "GROUND FLOOR",
-      "code": "0",
+      "name": "9TH FLOOR",
+      "code": "9",
+      "description": "floor number of the floor",
+      "active": true
+    },
+    {
+      "name": "10TH FLOOR",
+      "code": "10",
+      "description": "floor number of the floor",
+      "active": true
+    },
+    {
+      "name": "10TH FLOOR & ABOVE",
+      "code": "10ABOVE",
       "description": "floor number of the floor",
       "active": true
     }

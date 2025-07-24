@@ -124,12 +124,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "1997-98"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -284,12 +278,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "1998-99"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -444,12 +432,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "1999-00"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -604,12 +586,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2000-01"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -764,12 +740,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2001-02"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -924,12 +894,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2002-03"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -1084,12 +1048,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2003-04"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -1244,12 +1202,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2004-05"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -1404,12 +1356,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2005-06"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -1564,12 +1510,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2006-07"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -1724,12 +1664,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2007-08"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -1884,12 +1818,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2008-09"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -2042,12 +1970,6 @@
         "maxAmount": null,
         "flatAmount": null
       }
-    },
-    {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2009-10"
     },
     {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
@@ -2204,12 +2126,6 @@
       }
     },
     {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2010-11"
-    },
-    {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",
       "code": "ELECTRIC",
       "active": true,
@@ -2362,12 +2278,6 @@
         "maxAmount": null,
         "flatAmount": null
       }
-    },
-    {
-      "name": "136 (i): Residential - Self Occupied",
-      "code": "136IRESIDENTIAL",
-      "active": true,
-      "fromFY": "2025-26"
     },
     {
       "name": "136 (j): Electric Poles by MPEB or its successor companies",

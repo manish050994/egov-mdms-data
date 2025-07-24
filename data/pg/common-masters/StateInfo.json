@@ -5,11 +5,11 @@
     {
       "name": "Demo",
       "code": "pg",
-      "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
-      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/banner-bg.jpg",
-      "logoUrl": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
-      "logoUrlWhite": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
-      "statelogo": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg/logo.png",
+      "qrCodeURL": "",
+      "bannerUrl": "",
+      "logoUrl": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
+      "logoUrlWhite": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
+      "statelogo": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/MP%20Emblem%201%201.svg",
       "enableWhatsApp": true,
       "defaultUrl": {
         "citizen": "/user/register",

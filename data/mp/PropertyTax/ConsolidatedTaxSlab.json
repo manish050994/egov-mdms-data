@@ -1,0 +1,41 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "ConsolidatedTaxSlab": [
+    {
+      "constructionType": "RCC",
+      "rates": {
+        "1": { "RESIDENTIAL": 550, "NONRESIDENTIAL": 650 },
+        "2": { "RESIDENTIAL": 500, "NONRESIDENTIAL": 600 },
+        "3": { "RESIDENTIAL": 450, "NONRESIDENTIAL": 550 },
+        "4": { "RESIDENTIAL": 400, "NONRESIDENTIAL": 500 },
+        "5": { "RESIDENTIAL": 350, "NONRESIDENTIAL": 450 },
+        "6": { "INDUSTRIAL": 400 }
+      }
+    },
+    {
+      "constructionType": "PAKKAA",
+      "rates": {
+        "1": { "RESIDENTIAL": 450, "NONRESIDENTIAL": 550 },
+        "2": { "RESIDENTIAL": 400, "NONRESIDENTIAL": 500 },
+        "3": { "RESIDENTIAL": 350, "NONRESIDENTIAL": 450 },
+        "4": { "RESIDENTIAL": 300, "NONRESIDENTIAL": 400 },
+        "5": { "RESIDENTIAL": 250, "NONRESIDENTIAL": 350 },
+        "6": { "INDUSTRIAL": 350 }
+      }
+    },
+    {
+      "constructionType": "KUCCHA",
+      "rates": {
+        "All": { "Any": 180 },
+        "6": { "INDUSTRIAL": 250 }
+      }
+    },
+    {
+      "constructionType": "OPENLAND",
+      "rates": {
+        "All": { "Any": 180 }
+      }
+    }
+  ]
+}
