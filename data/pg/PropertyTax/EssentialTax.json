@@ -1,0 +1,37 @@
+{
+  "tenantId": "pg",
+  "moduleName": "PropertyTax",
+  "EssentialTax":
+  [
+    {
+      "id": "1",
+      "name": "ATM",
+      "code": "ATM",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Bank",
+      "code": "BANK",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Multiplex",
+      "code": "MULTIPLEX",
+      "active": true
+    },
+     {
+      "id": "4",
+      "name": "Mall",
+      "code": "MALL",
+      "active": true
+    },
+         {
+      "id": "5",
+      "name": "Private Coaching Centre",
+      "code": "PRIVATECOACHINGCENTRE",
+      "active": true
+    }
+  ]
+}
