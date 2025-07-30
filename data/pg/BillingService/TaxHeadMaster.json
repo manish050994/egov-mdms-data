@@ -203,6 +203,26 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Current Year Tax",
+      "code": "PT_CURRENT_YEAR_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Arrear",
+      "code": "PT_ARREAR",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
       "category": "PENALTY",
       "service": "PT",
       "name": "Pt time penalty",

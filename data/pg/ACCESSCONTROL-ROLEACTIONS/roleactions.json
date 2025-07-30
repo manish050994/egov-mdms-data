@@ -32803,6 +32803,19 @@
       "actioncode": "",
       "tenantId": "pg"
   }
+  ,
+   {
+      "rolecode": "PT_CEMP",
+      "actionid": 5551,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+   {
+      "rolecode": "CITIZEN",
+      "actionid": 5551,
+      "actioncode": "",
+      "tenantId": "pg"
+  }
     
   ]
 }
