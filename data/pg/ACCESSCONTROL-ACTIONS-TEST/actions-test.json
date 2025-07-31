@@ -20868,6 +20868,18 @@
         "serviceCode": "property-services",
         "code": "null",
         "path": ""
-    }
+},
+{
+        "id": 5552,
+        "name": "PGService Transaction Redirect",
+        "url": "/pg-service/transaction/v1/_redirect",
+        "displayName": "Transaction Redirect",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "pg-service",
+        "code": "null",
+        "path": ""
+    }    
   ]
 }
