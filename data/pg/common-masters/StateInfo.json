@@ -5,8 +5,8 @@
     {
       "name": "Demo",
       "code": "pg",
-      "qrCodeURL": "",
-      "bannerUrl": "",
+      "qrCodeURL": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
+      "bannerUrl": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
       "logoUrl": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
       "logoUrlWhite": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
       "statelogo": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/MP%20Emblem%201%201.svg",
