@@ -11943,7 +11943,7 @@
         "serviceCode": "",
         "path": "Property Tax",
         "navigationURL": "/digit-ui/citizen",
-        "leftIcon": "communication:business",
+        "leftIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/real_estate_agent.svg",
         "rightIcon": ""
     },
     {
