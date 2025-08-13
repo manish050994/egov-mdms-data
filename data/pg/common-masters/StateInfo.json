@@ -10,7 +10,8 @@
       "bannerUrl": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
       "logoUrl": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
       "logoUrlWhite": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
-      "statelogo": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/MP%20Emblem%201%201.svg",
+      "statelogo": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/state_logo.png",
+      "statelogobgpng": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/state_logo_bg_img.png",
       "enableWhatsApp": true,
       "defaultUrl": {
         "citizen": "/user/register",
@@ -120,7 +121,8 @@
         "funeralVan": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/Truck.svg",
         "rentallogo": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/passkey.svg",
         "propertyTax": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/real_estate_agent.svg",
-        "waterTax": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/water_ph.svg"
+        "waterTax": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/water_ph.svg",
+        "downloadIcon": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/feather_upload-cloud.svg"
       }
     }
   ]
