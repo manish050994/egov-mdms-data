@@ -6,6 +6,7 @@
       "name": "Demo",
       "code": "pg",
       "mainCity": "citya",
+      "BAPURL": "https://citizenservicesdev.eydemoapp.in/",
       "qrCodeURL": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
       "bannerUrl": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
       "logoUrl": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
