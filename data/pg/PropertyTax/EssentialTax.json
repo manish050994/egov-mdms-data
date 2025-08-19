@@ -7,31 +7,36 @@
       "id": "1",
       "name": "ATM",
       "code": "ATM",
-      "active": true
+      "active": true,
+      "applicableRateZone": "RateZone1"
     },
     {
       "id": "2",
       "name": "Bank",
       "code": "BANK",
-      "active": true
+      "active": true,
+      "applicableRateZone": "RateZone1"
     },
     {
       "id": "3",
       "name": "Multiplex",
       "code": "MULTIPLEX",
-      "active": true
+      "active": true,
+      "applicableRateZone": "RateZone1"
     },
      {
       "id": "4",
       "name": "Mall",
       "code": "MALL",
-      "active": true
+      "active": true,
+      "applicableRateZone": "RateZone1"
     },
          {
       "id": "5",
       "name": "Private Coaching Centre",
       "code": "PRIVATECOACHINGCENTRE",
-      "active": true
+      "active": true,
+      "applicableRateZone": "RateZone1"
     }
   ]
 }
