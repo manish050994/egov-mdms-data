@@ -501,7 +501,7 @@
       "startingDate": 1491004800000,
       "endingDate": 1522540799000,
       "active": true,
-      "isActiveForPosting": true,
+      "isActiveForPosting": false,
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
@@ -515,7 +515,7 @@
       "startingDate": 1459468800000,
       "endingDate": 1491004799000,
       "active": true,
-      "isActiveForPosting": true,
+      "isActiveForPosting": false,
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
@@ -529,7 +529,7 @@
       "startingDate": 1427846400000,
       "endingDate": 1459468799000,
       "active": true,
-      "isActiveForPosting": true,
+      "isActiveForPosting": false,
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
