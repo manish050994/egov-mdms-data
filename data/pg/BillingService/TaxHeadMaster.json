@@ -165,16 +165,6 @@
 	{
       "category": "TAX",
       "service": "PT",
-      "name": "Sewa Shulk/ Service Charge",
-      "code": "PT_SERVICE_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-	{
-      "category": "TAX",
-      "service": "PT",
       "name": "Property Tax",
       "code": "PT_PROPERTY_TAX",
       "isDebit": false,
