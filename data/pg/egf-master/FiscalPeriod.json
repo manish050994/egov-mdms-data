@@ -1,0 +1,61 @@
+{
+  "tenantId": "pg",
+  "moduleName": "egf-master",
+  "FiscalPeriod": [
+    {
+      "tenantId": "pg",
+      "module": "egf-master",
+      "finYearRange": "2025-26",
+      "name": "August 2025",
+      "startingDate": 1754006400000,
+      "endingDate": 1756607999000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false
+    },
+    {
+      "tenantId": "pg",
+      "module": "egf-master",
+      "finYearRange": "2025-26",
+      "name": "September 2025",
+      "startingDate": 1756684800000,
+      "endingDate": 1759276799000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false
+    },
+    {
+      "tenantId": "pg",
+      "module": "egf-master",
+      "finYearRange": "2025-26",
+      "name": "October 2025",
+      "startingDate": 1759363200000,
+      "endingDate": 1761955199000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false
+    },
+    {
+      "tenantId": "pg",
+      "module": "egf-master",
+      "finYearRange": "2025-26",
+      "name": "November 2025",
+      "startingDate": 1762041600000,
+      "endingDate": 1764633599000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false
+    },
+    {
+      "tenantId": "pg",
+      "module": "egf-master",
+      "finYearRange": "2025-26",
+      "name": "December 2025",
+      "startingDate": 1764710400000,
+      "endingDate": 1767302399000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false
+    }
+  ]
+}
